@@ -11,8 +11,8 @@ OOPS is used. A total of 5 files are used to seggregrate the work and make the c
 ## Technologies Used
 Python 3 is used to write this project. Standard Libraries or modules such as datetime, json and os are used. Data is stored using a JSON file for persistence. Different types of files and classes are used which can easily enhance the scalability of the project.
 
-## Steps to Install and Run the Project
-One has to ensure that Python 3 is installed in his system. Then download all python files and also take sample data JSON. Open a terminal and go to the directory where the files are saved. Run the main file which is `library.py`. Select different options to get the desired output.
+## To install and run the program: 
+Maske sure that Python 3 is installed in the systems. Now download the python files and also take sample data JSON. Open a terminal and go to the directory where the files are saved. Run the main file which is `library.py`. Select different options to get the desired output.
 
 ## Instructions to Test
 Test by selecting different options such as adding books or users and return books. Check overdue notifications and also report them for different due dates. Enter valid and invalid inputs to check menu robustness. Also, run the project multiple times to make sure that data is being stored and displayed after every reload.
